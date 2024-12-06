@@ -1,0 +1,2 @@
+conda activate gtk_env_new
+python convert_dfd.py
