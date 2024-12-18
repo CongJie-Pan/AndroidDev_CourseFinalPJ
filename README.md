@@ -81,20 +81,18 @@
 
 https://github.com/akrajilwar/Android-Login-And-Registration/tree/master
 
-The repository `akrajilwar/Android-Login-And-Registration` provides an Android login and registration system using PHP, MySQL, and SQLite databases. It includes a full tutorial on developing the system, and provides example screens for login, registration, email verification, and home. The repository contains steps for setting up the system on both XAMPP for Windows and web hosting environments, detailing the necessary configurations and database setup.
+此儲存庫 `akrajilwar/Android-Login-And-Registration` 提供了一個使用 PHP、MySQL 和 SQLite 資料庫的 Android 登入和註冊系統。它包含了完整的系統開發教學，並提供登入、註冊、電子郵件驗證和首頁的範例畫面。該儲存庫包含在 Windows 的 XAMPP 和網頁託管環境中設置系統的步驟，詳細說明了必要的配置和資料庫設置。
 
-For more details, you can read the [README](https://github.com/akrajilwar/Android-Login-And-Registration/blob/65457e7f4e372518f7520f088078ca351ce98664/README.md) file.
+更多詳細資訊，您可以閱讀[README](https://github.com/akrajilwar/Android-Login-And-Registration/blob/65457e7f4e372518f7520f088078ca351ce98664/README.md)檔案。
 
 ### 2.
 
-https://github.com/Mahmud0808/Rushly/
+儲存庫 [Mahmud0808/Rushly](https://github.com/Mahmud0808/Rushly) 是一個使用 Kotlin 和 MVVM 架構建立的電子商務 Android 應用程式。它提供了時尚的介面、簡易的導航和流暢的購物瀏覽體驗。該應用程式使用 Firebase 服務實現身份驗證、Firestore 資料庫和儲存等功能。
 
-The repository [Mahmud0808/Rushly](https://github.com/Mahmud0808/Rushly) is an e-commerce Android app built using Kotlin and MVVM architecture. It offers a sleek interface, easy navigation, and a seamless browsing experience for shopping. The app utilizes Firebase services for functionalities like authentication, Firestore database, and storage.
-
-For more details, you can check the [README file](https://github.com/Mahmud0808/Rushly/blob/9afb8afc12e6443f2499c19014afaeff79a7c292/README.md).
+更多詳細資訊，您可以查看[README檔案](https://github.com/Mahmud0808/Rushly/blob/9afb8afc12e6443f2499c19014afaeff79a7c292/README.md)。
 
 ### 3.
 
 [YouTube: Login and Registration using Firebase in Android](https://www.youtube.com/watch?v=QAKq8UBv4GI&t=9s&ab_channel=CodesEasy&loop=0)
 
-Firbase 是 Google 對安卓手機開發的資料庫系統。
+Firebase 是 Google 對 Android 手機開發的資料庫系統。
